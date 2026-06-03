@@ -1,0 +1,6 @@
+{
+  "name": "Universal Translator",
+  "description": "A global translation application capable of translating text, structured phrasing, and speech across any languages in the world, powered by Gemini 3.5.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
